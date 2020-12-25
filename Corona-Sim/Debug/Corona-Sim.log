@@ -1,0 +1,4 @@
+﻿  testPerson.cpp
+C:\Users\udrt\Desktop\repo\zengkm\C++\Corona-Sim\Background.h(60,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\udrt\Desktop\repo\zengkm\C++\Corona-Sim\Person.h(36,21): warning C4018: “<”: 有符号/无符号不匹配
+  Corona-Sim.vcxproj -> C:\Users\udrt\Desktop\repo\zengkm\C++\Corona-Sim\Debug\Corona-Sim.exe
